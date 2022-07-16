@@ -28,9 +28,8 @@ Her örneğin başında hangi hafta konularına ait bir örnek olduğunu yazdım
 
 
 
-** 4. (döngüler) ve 5. (matematik fonksiyonları, karakterler, ve stringler) konuları aynı zaman diliminde öğrendik. Bu sebeple 4. konudaki bazı örneklerde 5. konu da geçiyor. Örnekleri çözmeden önce ikisinin de konu çalışma kısmını bitirmiş olmanız daha faydalı olacaktır.
+**4. (döngüler) ve 5. (matematik fonksiyonları, karakterler, ve stringler) konuları aynı zaman diliminde öğrendik. Bu sebeple 4. konudaki bazı örneklerde 5. konu da geçiyor. Örnekleri çözmeden önce ikisinin de konu çalışma kısmını bitirmiş olmanız daha faydalı olacaktır.
 
-
-Eksik konuların örneklerini de en kısa sürede yükleyeceğim. Takipte kalın.
-Instagram: https://www.instagram.com/yazilim.seruvenim/ 
-email: beyzayildizli10@gmail.com
+* Eksik konuların örneklerini de en kısa sürede yükleyeceğim. Takipte kalın.
+* Instagram: https://www.instagram.com/yazilim.seruvenim/
+* email: beyzayildizli10@gmail.com
