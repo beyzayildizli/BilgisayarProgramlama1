@@ -2,7 +2,7 @@
 BP1 dersi için yaptığım ödev ve çalışmalar
 
 Java öğrenenlere yardımcı olabileceğini düşündüğüm için Bilgisayar Programlama 1 dersinde öğrendiğimiz konularla ilgili
-örnekleri ve dönem içinde yaptığım projeleri paylaşmak istedim. 
+örnekleri paylaşmak istedim. 
 Her örneğin başında hangi hafta konularına ait bir örnek olduğunu yazdım. Bu şekilde konulara çalıştıktan sonra o konuyla ilgili örnekleri inceleyebilirsiniz.
 
 ##  Konuların sırası nasıl?
